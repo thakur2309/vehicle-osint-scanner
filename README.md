@@ -79,7 +79,7 @@ cd vehicle-osint-scanner
 pip install -r requirements.txt
 
 # run script
-python protected_tool.py
+python vehicle_lookup.py
 ```
 ## Installation 🛠️
 ## 🐧 Linux & Termux Setup (Kali/Ubuntu/Debian)
@@ -93,7 +93,7 @@ cd vehicle-osint-scanner
 pip install -r requirements.txt
 
 # run script
-python protected_tool.py
+python vehicle_lookup.py
 ```
 ---
 
