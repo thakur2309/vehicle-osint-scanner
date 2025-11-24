@@ -1,5 +1,5 @@
 # 🚗 Firewall Breaker – Vehicle Info Lookup  
-[![GitHub stars](https://img.shields.io/github/stars/thakur2309/OSINT?style=social)](https://github.com/thakur2309/OSINT.git)
+[![GitHub stars](https://img.shields.io/github/stars/thakur2309/vehicle-osint-scanner?style=social)](https://github.com/thakur2309/vehicle-osint-scanner.git)
 [![YouTube](https://img.shields.io/badge/YouTube-Firewall%20Breaker-red)](https://www.youtube.com/@FirewallBreaker09)
 [![Instagram](https://img.shields.io/badge/Instagram-sudo_xploit-purple)](https://www.instagram.com/sudo_xploit)
 ### 🔥 Created by **Thakur2309**  
