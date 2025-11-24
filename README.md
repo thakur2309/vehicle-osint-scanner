@@ -72,8 +72,8 @@ Should show: Python 3.12.x
 Should show: Git 2.51.x
 ## Step 3: type in power shell �
 ```bash
-git clone https://github.com/thakur2309/OSINT.git
-cd OSINT
+git clone https://github.com/thakur2309/vehicle-osint-scanner.git
+cd vehicle-osint-scanner
 
 # requirements 
 pip install -r requirements.txt
@@ -86,8 +86,8 @@ python protected_tool.py
 ```bash
 #In termux remove sudo
 sudo apt update
-git clone https://github.com/thakur2309/OSINT.git
-cd OSINT
+git clone https://github.com/thakur2309/vehicle-osint-scanner.git
+cd vehicle-osint-scanner
 
 # requirements 
 pip install -r requirements.txt
@@ -95,28 +95,6 @@ pip install -r requirements.txt
 # run script
 python protected_tool.py
 ```
-## How to Use
-
-1. **Download** `protected_tool.py`  
-2. Open **terminal** in the same folder  
-3. Run the tool  
-4. Enter your **approved license key**  
-5. Input **10-digit Indian mobile number**  
-6. View results → Export to CSV (optional)  
-
-> **Simple. Secure. Powerful.**
-
----
-
-## Features
-
-- Real-time mobile OSINT lookup  
-- Clean, structured, **color-coded** output  
-- Auto-retry on network failure  
-- Export to **timestamped CSV**  
-- **100% secure execution**  
-- Works offline after first run  
-
 ---
 
 ## Intended Uses
