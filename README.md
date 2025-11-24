@@ -1,28 +1,38 @@
-# 🚗 Firewall Breaker – Vehicle Info Lookup [PROTECTED]  
-
-[![GitHub stars](https://img.shields.io/github/stars/thakur2309/OSINT?style=social)](https://github.com/thakur2309/OSINT.git)
-[![YouTube](https://img.shields.io/badge/YouTube-Firewall%20Breaker-red)](https://www.youtube.com/@FirewallBreaker09)
-[![Instagram](https://img.shields.io/badge/Instagram-sudo_xploit-purple)](https://www.instagram.com/sudo_xploit)
-
-**FIREWALL BREAKER OSINT** is a **powerful, protected, and ethical** mobile number intelligence tool built for **OSINT researchers & ethical hackers**!  
-It performs **deep real-time lookups** on **Indian 10-digit mobile numbers**, extracts structured data, and exports results in **CSV** — all in a **colorful, interactive CLI**!
-
-> **Single File. Fully Protected. License Required.**  
-> **No source code. No setup. Just run.**
-
----
-## About This Tool
-
-This is the **official protected version** of **FIREWALL BREAKER OSINT v3.1** — a powerful, secure, and ethical CLI tool for **Indian mobile number OSINT research**.
-
-- **Single file execution**: `protected_tool.py`  
-- **No source code exposed**  
-- **License key protected**  
-- **CSV export included**  
-- **Colorful, user-friendly interface**  
+# 🚗 Firewall Breaker – Vehicle Info Lookup  
+### 🔥 Created by **Thakur2309**  
+### 🎯 A Professional OSINT Tool To Fetch Indian Vehicle Registration Information
 
 ---
 
+## 📌 About  
+Firewall Breaker – Vehicle Info Lookup is a professional OSINT tool created for educational and cybersecurity research purposes.  
+Using a publicly available API, the tool fetches detailed information about an Indian vehicle using its registration number and displays the output in a beautiful colored interface.
+
+---
+
+## ⚙️ Features  
+✔ Auto clears screen on run  
+✔ Professional banner & disclaimer  
+✔ Fetches real data via public API  
+✔ Beautiful colored output using Rich  
+✔ Error handling included  
+✔ Works on Windows, Termux & Linux  
+✔ Beginner-friendly clean source code
+
+---
+
+## ⚠️ Legal Disclaimer  
+This tool is strictly for:
+
+- Ethical research  
+- Cyber awareness  
+- OSINT investigations  
+- Educational demonstrations  
+
+Unauthorized use, privacy violation, cybercrime, or misuse of this tool is completely illegal.  
+The user is solely responsible for their actions.
+
+---
 
 ### Supported Platforms
 - **Termux** �
